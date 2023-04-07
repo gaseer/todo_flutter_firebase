@@ -1,16 +1,13 @@
 # flutter_todo_app
 
-A new Flutter project.
+My first Flutter and Firebase Create, Read, Delete app
 
 ## Getting Started
+Run this project by following instructions below
+###In command line write
+$ pub get 
+$flutter run
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Sample screenshot
+![Screenshot_1680863479](https://user-images.githubusercontent.com/85013312/230594052-63a2d9c3-91cf-4e78-894f-12130ffd2ec4.png)
+You can delete the list by swiping left
