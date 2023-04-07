@@ -9,5 +9,7 @@ $ pub get
 $flutter run
 
 # Sample screenshot
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/85013312/230594052-63a2d9c3-91cf-4e78-894f-12130ffd2ec4.png)" width="300">
+<div height="200">
+![Screenshot_1680863479](https://user-images.githubusercontent.com/85013312/230595476-144bd864-c0dc-40d0-b064-4e6a99cd9d91.png)
+</div>
 ## You can delete the list by swiping left
