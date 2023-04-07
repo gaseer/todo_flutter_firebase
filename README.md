@@ -9,6 +9,5 @@ $ pub get
 $flutter run
 
 # Sample screenshot
-![alt text](https://github.com/gaseer/todo_flutter_firebase/todo.png)
-<img src="https://github.com/gaseer/todo_flutter_firebase/todo.png" width="128"/>
+![alt text](https://github.com/gaseer/todo_flutter_firebase.git/todo.png)
 # You can delete the list by swiping left
