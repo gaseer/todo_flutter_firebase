@@ -10,5 +10,5 @@ $flutter run
 
 # Sample screenshot
 <img src="https://github.com/favicon.ico" width="48">
-![todo](todo.png)
+<img src="relative/path/in/repository/to/image.svg" width="128"/>
 # You can delete the list by swiping left
