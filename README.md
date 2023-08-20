@@ -5,7 +5,7 @@ My first Flutter and Firebase Create, Read, Delete app
 <h1> Getting Started </h1>
 Run this project by following instructions below
 ## In command line write
-<p>$ pub get</p> 
+<p>$ flutter pub get</p>  
 <p>$flutter run</p>
 
 # Sample screenshot
